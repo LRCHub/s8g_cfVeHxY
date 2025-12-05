@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Ash",
+  "base_artist": "[Alexandros]",
+  "createdAt": "2025-12-05T03:43:13.322933Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ash + Bone",
+      "artist": "Sukhmani feat. Ajeet & Aisling Urwin",
+      "has_synced": false,
+      "path": "select/01_Ash_+_Bone_Sukhmani_feat._Ajeet_&_Aisling_Urwin.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ash + Bone",
+      "artist": "Sukhmani, Ajeet, Aisling Urwin",
+      "has_synced": false,
+      "path": "select/02_Ash_+_Bone_Sukhmani,_Ajeet,_Aisling_Urwin.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ash to Bone",
+      "artist": "Zola Jesus",
+      "has_synced": true,
+      "path": "select/03_Ash_to_Bone_Zola_Jesus.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ash",
+      "artist": "Murder By Death",
+      "has_synced": true,
+      "path": "select/04_Ash_Murder_By_Death.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "For Ash",
+      "artist": "Marnie Stern",
+      "has_synced": false,
+      "path": "select/05_For_Ash_Marnie_Stern.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ash/Black Veil",
+      "artist": "Apparat",
+      "has_synced": true,
+      "path": "select/06_Ash_Black_Veil_Apparat.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hanasakajijii (Four: A Great Wind, More Ash)",
+      "artist": "Anathallo",
+      "has_synced": true,
+      "path": "select/07_Hanasakajijii_(Four__A_Great_Wind,_More_Ash)_Anathallo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ash Wednesday",
+      "artist": "Shivaree",
+      "has_synced": true,
+      "path": "select/08_Ash_Wednesday_Shivaree.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Oak & Ash & Thorn",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/09_Oak_&_Ash_&_Thorn_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ash Tree Lane",
+      "artist": "MS MR",
+      "has_synced": true,
+      "path": "select/10_Ash_Tree_Lane_MS_MR.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Burn 2 Ash",
+      "artist": "Chad VanGaalen",
+      "has_synced": false,
+      "path": "select/11_Burn_2_Ash_Chad_VanGaalen.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ash Wednesday",
+      "artist": "Elvis Perkins",
+      "has_synced": true,
+      "path": "select/12_Ash_Wednesday_Elvis_Perkins.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "1. David Jay 2. Peter Murphy 3. Kevin Haskins 4. Daniel Ash",
+      "artist": "Bauhaus",
+      "has_synced": true,
+      "path": "select/13_1._David_Jay_2._Peter_Murphy_3._Kevin_Haskins_4._Daniel_Ash_Bauhaus.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Glitter and Ash",
+      "artist": "Gary Numan",
+      "has_synced": false,
+      "path": "select/14_Glitter_and_Ash_Gary_Numan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ash",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/pl_01_Ash_[Alexandros].txt"
+    }
+  ]
+}
